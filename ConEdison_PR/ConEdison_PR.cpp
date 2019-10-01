@@ -1016,7 +1016,7 @@ unsigned int __stdcall mythreadA(void* data)
 
 
 
-		SetWindowTextW(hEdit3, tof1);s
+		SetWindowTextW(hEdit3, tof1);
 		SetWindowTextW(hEdit4, tof2);
 		SetWindowTextW(hEdit5, tof3);
 		SetWindowTextW(hEdit6, tof4);
